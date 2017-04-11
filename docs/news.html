@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>jk-pack Launcher News</title>
+</head>
+<body>
+
+{% for post in site.posts %}
+<h1>{{ post.title }}</h1>
+<p>{{ post.content }}</p>
+&nbsp;
+{% endfor %}
+
+</body>
+</html>

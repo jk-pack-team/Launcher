@@ -1,0 +1,21 @@
+From fb1c2f6748400c8c787c01e7bf4272f4387e21dc Mon Sep 17 00:00:00 2001
+From: Jamie Mansfield <dev@jamierocks.uk>
+Date: Tue, 11 Apr 2017 21:43:25 +0100
+Subject: [PATCH] Configure launcher
+
+
+diff --git a/launcher/src/main/resources/com/skcraft/launcher/launcher.properties b/launcher/src/main/resources/com/skcraft/launcher/launcher.properties
+index f434d2c..0539572 100644
+--- a/launcher/src/main/resources/com/skcraft/launcher/launcher.properties
++++ b/launcher/src/main/resources/com/skcraft/launcher/launcher.properties
+@@ -16,6 +16,6 @@ assetsSource=http://resources.download.minecraft.net/
+ yggdrasilAuthUrl=https://authserver.mojang.com/authenticate
+ resetPasswordUrl=https://minecraft.net/resetpassword
+ 
+-newsUrl=http://update.skcraft.com/template/news.html?version=%s
++newsUrl=https://jk-pack-team.github.io/Launcher/news.html
+ packageListUrl=http://update.skcraft.com/template/packages.json?key=%s
+ selfUpdateUrl=http://update.skcraft.com/template/launcher/latest.json
+-- 
+2.12.0
+
