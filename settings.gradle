@@ -1,0 +1,4 @@
+rootProject.name = name
+include 'Launcher'
+include 'Launcher:launcher', 'Launcher:launcher-fancy', 'Launcher:launcher-builder', 'Launcher:launcher-bootstrap', 'Launcher:creator-tools'
+

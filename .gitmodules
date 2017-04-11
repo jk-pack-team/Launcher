@@ -1,0 +1,3 @@
+[submodule "SKCraft"]
+	path = SKCraft
+	url = https://github.com/SKCraft/Launcher.git

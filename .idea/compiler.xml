@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="creator-tools_main" target="1.8" />
+      <module name="creator-tools_test" target="1.8" />
+      <module name="launcher-bootstrap_main" target="1.6" />
+      <module name="launcher-bootstrap_test" target="1.6" />
+      <module name="launcher-builder_main" target="1.6" />
+      <module name="launcher-builder_test" target="1.6" />
+      <module name="launcher-fancy_main" target="1.6" />
+      <module name="launcher-fancy_test" target="1.6" />
+      <module name="Launcher_main" target="1.8" />
+      <module name="launcher_main" target="1.6" />
+      <module name="Launcher_test" target="1.8" />
+      <module name="launcher_test" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

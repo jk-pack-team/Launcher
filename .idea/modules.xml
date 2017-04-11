@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/Launcher-Launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/Launcher-Launcher.iml" group="Launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/creator-tools/creator-tools.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/creator-tools/creator-tools.iml" group="Launcher/creator-tools" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/creator-tools/creator-tools_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/creator-tools/creator-tools_main.iml" group="Launcher/creator-tools" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/creator-tools/creator-tools_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/creator-tools/creator-tools_test.iml" group="Launcher/creator-tools" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher/launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher/launcher.iml" group="Launcher/launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher-bootstrap/launcher-bootstrap.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher-bootstrap/launcher-bootstrap.iml" group="Launcher/launcher-bootstrap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher-bootstrap/launcher-bootstrap_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher-bootstrap/launcher-bootstrap_main.iml" group="Launcher/launcher-bootstrap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher-bootstrap/launcher-bootstrap_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher-bootstrap/launcher-bootstrap_test.iml" group="Launcher/launcher-bootstrap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher-builder/launcher-builder.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher-builder/launcher-builder.iml" group="Launcher/launcher-builder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher-builder/launcher-builder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher-builder/launcher-builder_main.iml" group="Launcher/launcher-builder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher-builder/launcher-builder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher-builder/launcher-builder_test.iml" group="Launcher/launcher-builder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher-fancy/launcher-fancy.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher-fancy/launcher-fancy.iml" group="Launcher/launcher-fancy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher-fancy/launcher-fancy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher-fancy/launcher-fancy_main.iml" group="Launcher/launcher-fancy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher-fancy/launcher-fancy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher-fancy/launcher-fancy_test.iml" group="Launcher/launcher-fancy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher/launcher_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher/launcher_main.iml" group="Launcher/launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Launcher/launcher/launcher_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Launcher/launcher/launcher_test.iml" group="Launcher/launcher" />
+    </modules>
+  </component>
+</project>
